@@ -1,0 +1,50 @@
+
+    {
+        "Animals": {
+            "tiger_in_the_grass": "Tiger lurking in tall grass at dusk, ultra-detailed, cinematic lighting, close-up view.",
+            "owl_in_flight": "Snowy owl in mid-flight, high-definition, moonlit night, detailed feather texture.",
+            "horses_in_fog": "Herd of wild horses galloping in early morning fog, dynamic angle, soft focus, high resolution.",
+            "deer_at_lake": "Deer drinking at a misty lake, sunrise colors, reflection in water, photorealistic.",
+            "cat_in_window": "Sleepy cat sitting in a sunny window, detailed fur texture, soft background, cozy atmosphere.",
+            "parrot_in_rainforest": "Colorful parrot perched in a lush rainforest, raindrops on leaves, vivid and detailed.",
+            "elephant_sunset_safari": "Elephant silhouette against a sunset on the African savannah, vibrant sky, high resolution.",
+            "urban_fox_night": "Fox exploring an empty city street at night, illuminated by streetlights, detailed urban backdrop.",
+            "penguin_family_iceberg": "Family of penguins on a small iceberg, ocean horizon, crisp and cold atmosphere.",
+            "butterfly_garden_macro": "Monarch butterfly on a sunflower, macro shot, dewdrops, bright morning light."        },
+        "People": {
+            "astronaut_spacewalk": "Astronaut conducting a spacewalk, Earth in the background, highly detailed spacesuit and equipment.",
+            "opera_singer_stage": "Opera singer hitting a high note on stage, dramatic lighting, audience in soft focus.",
+            "mountain_climber_peak": "Mountain climber reaching the summit, panoramic mountain views, early morning light.",
+            "medieval_knight_tournament": "Medieval knight on horseback at a jousting tournament, spectators in period costume.",
+            "street_artist_creating_mural": "Street artist painting a vibrant mural, urban environment, dynamic colors, realistic textures.",
+            "painter_at_work": "Elderly painter in a vibrant studio, surrounded by colorful canvases, detailed, natural light.",
+            "dancer_in_spotlight": "Ballet dancer on stage, dramatic spotlight, detailed costume, dynamic pose.",
+            "chef_in_action": "Chef preparing a meal in a bustling kitchen, high-speed shot, detailed culinary action.",
+            "street_performer": "Street performer in urban setting, sunset backdrop, high detail, candid portrait.",
+            "scientist_in_lab": "Female scientist examining samples under a microscope, detailed lab equipment, focused lighting."
+        },
+        "Objects": {
+            "steampunk_computer_console": "Steampunk computer console, brass fittings and gears, ambient warm lighting, vintage feel.",
+            "handmade_quilt_closeup": "Handmade quilt in intricate pattern, close-up, texture-focused with soft lighting.",
+            "futuristic_motorcycle": "Futuristic motorcycle on a neon-lit street, sleek design, reflections on wet asphalt.",
+            "antique_telescope": "Antique brass telescope by a window, overlooking a starry night, detailed engravings.",
+            "floating_lanterns_night_sky": "Floating lanterns in the night sky, festival atmosphere, detailed flames and paper textures.",
+            "antique_clock": "Close-up of an antique clock, intricate details, soft light, vintage feel.",
+            "sports_car": "Sports car speeding on a mountain road, sunset, dynamic angle, high adrenaline.",
+            "book_and_coffee": "Open book next to a steaming cup of coffee, morning light, cozy reading nook, detailed textures.",
+            "old_camera": "Vintage camera on a wooden table, detailed mechanics, soft backlight, nostalgic atmosphere.",
+            "glass_sculpture": "Intricate glass sculpture, sunlight casting colorful shadows, macro, ultra detailed."
+        },
+        "Landscapes": {
+            "volcanic_eruption_dynamic": "Volcanic eruption captured at night, lava flows and ash cloud, dramatic and dynamic lighting.",
+            "ancient_ruins_moonlight": "Ancient ruins under moonlight, stars visible, crumbled columns and wild ivy, mystical aura.",
+            "underwater_coral_reef": "Vibrant underwater coral reef, diverse marine life, clear blue water, sunlight filtering through.",
+            "haunted_forest_fog": "Haunted forest path under a full moon, thick fog, eerie shadows, highly detailed ghostly figures.",
+            "modern_city_futuristic_design": "Modern city with futuristic architecture at dusk, skyscrapers with glowing lights, busy streets.",
+            "city_skyline_at_twilight": "City skyline at twilight, panoramic view, vibrant lights, long exposure.",
+            "mountain_peak_snow": "Snow-capped mountain peak, clear blue sky, panoramic shot, high definition.",
+            "autumn_forest_path": "Path winding through a forest in autumn, leaves in rich colors, soft sunlight, high detail.",
+            "tropical_beach_sunset": "Tropical beach at sunset, vibrant sky, palm trees, detailed sandy foreground.",
+            "rolling_hills_fog": "Rolling hills covered in morning fog, serene atmosphere, wide angle, high resolution."
+        }
+    }
