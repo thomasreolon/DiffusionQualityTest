@@ -4,7 +4,7 @@ Code that generates a lot of images with diffusion models, evaluates them, plots
 
 ## Getting Started
 
-You can replicate the results in the paper: [Exploring Generative Models for High-Quality Image Synthesis](link)
+You can replicate the results in the paper: [Exploring Generative Models for High-Quality Image Synthesis](https://drive.google.com/file/d/1SX61ZjEsS0FKgPZ0w1NP2nB9fu8fVezR/view?usp=drive_link)
 
 To run the code you need a GPU with 10+ GB of RAM.
 
